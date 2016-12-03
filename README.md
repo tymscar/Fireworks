@@ -1,5 +1,5 @@
 # Fireworks in Unity (No particle system - programming exercise)
-<center>![Logo](http://i.imgur.com/54SyIQt.gifv)</center>
+<center>![Logo](http://i.imgur.com/54SyIQt.gif)</center>
 
 
 # Download the project
